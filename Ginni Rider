@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>GINNI - Hyperlocal Pick & Drop Service</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { font-family: Arial; background:#f8f9fa; margin:0; padding:0; }
+    .container { padding:20px; text-align:center; }
+    h1 { color:#e53935; }
+    .box { background:#fff; padding:15px; margin:10px 0; border-radius:8px; }
+    .btn { display:inline-block; background:#25d366; color:white; padding:12px 20px; border-radius:5px; text-decoration:none; margin:5px; }
+    .call { background:#1e88e5; }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>GINNI</h1>
+  <h3>Hyperlocal Pick & Drop Service – Kanpur</h3>
+  <p>Fast | Reliable | Same Day Delivery</p>
+
+  <div class="box">
+    <h4>Our Services</h4>
+    <p>
+      ✔ Food Delivery<br>
+      ✔ Medical Delivery<br>
+      ✔ Documents & Parcels<br>
+      ✔ Shop to Customer<br>
+      ✔ Shop to Shop Transfer
+    </p>
+  </div>
+
+  <div class="box">
+    <h4>How It Works</h4>
+    <p>
+      1. Call / WhatsApp us<br>
+      2. Rider will pick your parcel<br>
+      3. Safe delivery to destination<br>
+      4. Pay by Cash / UPI
+    </p>
+  </div>
+
+  <div class="box">
+    <h4>Contact Us</h4>
+    <p>📞 7668480818</p>
+    <a class="btn call" href="tel:7668480818">Call Now</a>
+    <a class="btn" href="https://wa.me/917668480818">WhatsApp</a>
+  </div>
+
+  <p><b>GINNI – Your Local Delivery Partner</b></p>
+</div>
+
+</body>
+</html>
